@@ -1,5 +1,5 @@
 # Burgers
-Eat All Da Burgers
+Eat All Da Burgers -- https://glacial-inlet-43552.herokuapp.com/
 
 ## Overview
 
@@ -15,3 +15,5 @@ Whenever a user submits a burger's name, your app will display the burger on the
 Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
 
 Your app will store every burger in a database, whether devoured or not.
+
+![Capture](https://user-images.githubusercontent.com/56567819/74196973-0daa0000-4c24-11ea-84e4-120e85502f71.PNG)
