@@ -4,7 +4,10 @@
     background-position: right;
     margin-top: 3%;
     background-color: black;
-    color: gray;
+    color: whitesmoke;
+  }
+  #newburger {
+    color: #5c5c5c;
   }
   #leftside {
     background-color: blue;
@@ -14,7 +17,7 @@
   }
   #rightside {
     background-color: green;
-    color: white;
+    color: whitesmoke;
     text-align: center;
     font-size: 1.3em;
   }
